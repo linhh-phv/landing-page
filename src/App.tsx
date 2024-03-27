@@ -14,7 +14,12 @@ function App() {
         </ul>
       </nav>
       <Routes>
-        <Route path="/" element={<p>Home</p>} />
+        <Route
+          path="/"
+          element={
+            <div className="w-full h-[50px] bg-slate-500">HelloTailwind</div>
+          }
+        />
         <Route path="/about" element={<p>About</p>} />
       </Routes>
     </BrowserRouter>
