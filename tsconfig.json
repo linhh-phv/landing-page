@@ -14,6 +14,20 @@
     "noEmit": true,
     "jsx": "react-jsx",
 
+    "baseUrl": ".",
+    "paths": {
+      "@api/*": ["src/api/*"], // contain axios request
+      "@assets/*": ["src/assets/*"], // contain image, font
+      "@components/*": ["src/components/*"], // contain components
+      "@features/*": ["src/features/*"], // contain feature of page
+      "@pages/*": ["src/pages/*"], // contain page
+      "@redux/*": ["src/redux/*"], // redux
+      "@resources/*": ["src/resources/*"], // contain text language
+      "@routes/*": ["src/routes/*"], // contain navigation
+      "@services/*": ["src/services/*"], // contain 3rd party
+      "@utils/*": ["src/utils/*"] // contain utils
+    },
+
     /* Linting */
     "strict": true,
     "noUnusedLocals": true,
