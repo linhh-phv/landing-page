@@ -1,4 +1,4 @@
-import ICLogo from "@assets/hoatienocPage/hoatienoc.jpg";
+import ICLogo from "@assets/hoatienocPage/coffee.png";
 
 interface IProps {}
 
@@ -8,7 +8,7 @@ const Footer: React.FC<IProps> = ({}) => {
       <div className="container mx-auto px-4">
         <div className="flex flex-col justify-between items-center py-5 md:flex-row">
           <div className="w-20">
-            <img src={ICLogo} alt="website logo" className="rounded-full " />
+            <img src={ICLogo} alt="website logo" />
           </div>
           <div className="flex items-center mt-5 text-gray-500 w-full justify-center md:justify-end">
             <a href="tel:0362217421" className="flex mx-2">

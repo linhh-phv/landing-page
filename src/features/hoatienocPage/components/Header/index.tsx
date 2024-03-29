@@ -22,6 +22,10 @@ const Header: React.FC<IProps> = ({}) => {
     dataFromContext?.scrollToSectionAbout();
   };
 
+  const onBuyMeACoffee = () => {
+    window.open("https://www.buymeacoffee.com/linhhphvx", "_blank");
+  };
+
   const renderLogo = () => {
     return (
       <div className="w-20 z-20">
@@ -45,7 +49,9 @@ const Header: React.FC<IProps> = ({}) => {
           </div>
         </div>
         <div className="m-8 md:m-0">
-          <div className="c-link cursor-pointer">Buy me Coffee ☕️</div>
+          <div onClick={onBuyMeACoffee} className="c-link cursor-pointer">
+            Buy me a Coffee ☕️
+          </div>
         </div>
         <div className="m-8 md:m-0">
           <div onClick={onClickAbout} className="c-link cursor-pointer">
