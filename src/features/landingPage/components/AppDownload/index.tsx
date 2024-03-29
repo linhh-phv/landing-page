@@ -35,14 +35,8 @@ const AppDownload: React.FC<IProps> = ({}) => {
 
           {/* buttons */}
           <div className="flex justify-center">
-            <Button label="Playstore" />
-            <Button
-              label="Appstore"
-              color="transparent"
-              borderColor="white"
-              hoverColor="red-500"
-              hoverBorderColor="transparent"
-            />
+            <Button label="Playstore" type="primary" />
+            <Button label="Appstore" />
           </div>
         </div>
       </div>
