@@ -1,4 +1,4 @@
-import { FC, ReactNode, MouseEvent } from "react";
+import { FC, MouseEvent } from "react";
 
 interface IProps {
   label: string;
