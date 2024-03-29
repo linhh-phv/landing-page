@@ -37,7 +37,7 @@ const Footer: React.FC<IProps> = ({}) => {
           </div>
         </div>
         <div className="text-center my-4">
-          <p className="text-gray-500">Copy &copy; 2024 Linh Pham</p>
+          <p className="text-gray-500">Copy &copy; 2024 Linh Pham =))</p>
         </div>
       </div>
     </footer>
