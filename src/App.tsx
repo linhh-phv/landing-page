@@ -1,28 +1,11 @@
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import { AppProvider } from "@components/appProvider";
+import { AppRoutes } from "@routes/index";
 
 function App() {
   return (
-    <BrowserRouter>
-      <nav>
-        <ul>
-          <li>
-            <Link to="/">Home</Link>
-          </li>
-          <li>
-            <Link to="/about">About</Link>
-          </li>
-        </ul>
-      </nav>
-      <Routes>
-        <Route
-          path="/"
-          element={
-            <div className="w-full h-[50px] bg-slate-500">welcome to my page</div>
-          }
-        />
-        <Route path="/about" element={<p>About</p>} />
-      </Routes>
-    </BrowserRouter>
+    <AppProvider>
+      <AppRoutes />
+    </AppProvider>
   );
 }
 
