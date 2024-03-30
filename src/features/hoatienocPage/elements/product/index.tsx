@@ -18,7 +18,7 @@ const ProductTypeList: React.FC<Props> = ({ productTypes, productsByType }) => {
         <div key={type.id} className="mb-4">
           <Text label={type.name} type="des" className="mb-2 font-bold" />
 
-          <div className="grid grid-cols-3 gap-4 md:gap-6">
+          <div className="grid grid-cols-3 md:grid-cols-4 gap-4">
             {productsByType[type.id]?.map((product) => {
               return (
                 <div
