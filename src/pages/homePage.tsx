@@ -1,12 +1,13 @@
 import { lazy } from "react";
-const LandingPage = lazy(() => import("@features/landingPage"));
+// const LandingPage = lazy(() => import("@features/landingPage"));
+const HoatienocPage = lazy(() => import("@features/hoatienocPage"));
 
 interface IProps {}
 
 const HomePage: React.FC<IProps> = ({}) => {
   return (
     <>
-      <LandingPage />
+      <HoatienocPage />
     </>
   );
 };
