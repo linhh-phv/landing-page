@@ -106,6 +106,46 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/ccb05dded96f416081b39f0c2b403ed5~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/50BxYqZ7a8",
   },
+   {
+    id: 11,
+    name: "Keo chuyên dụng dán móng",
+    typeId: 6,
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/7c2e3ec61f534eb5a861d8f653d532a9~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/AKDTvgbdYO",
+  },
+   {
+    id: 12,
+    name: "Túi vải đeo chéo",
+    typeId: 6,
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/25fe5a095ad748338fe4898792864c50~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/9zadXMZxwg",
+  },
+   {
+    id: 13,
+    name: "Balo vải Laptop 16 inch",
+    typeId: 6,
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/7461f4a7579d4968a459d0ca647c1584~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/B6hpTFkyM",
+  },
+   {
+    id: 14,
+    name: "Túi xách Juno - mua ở giỏ hàng tiktok mình nha",
+    typeId: 6,
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/f9dd51eaa2334285abba18b407fbf94c~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://www.tiktok.com/@hoatienoc",
+  },
+   {
+    id: 15,
+    name: "Mắt kính gọng kim loại - mua ở giỏ hàng tiktok mình nha",
+    typeId: 6,
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/73800febf71b47c69b59dfa3afed866c~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://www.tiktok.com/@hoatienoc",
+  },
 ];
 
 const productTypesDataFake: IProductType[] = [
