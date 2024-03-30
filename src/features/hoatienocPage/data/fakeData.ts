@@ -7,7 +7,7 @@ const productsDataFake: IProduct[] = [
     name: "Candy Skirt (có lót quần cùng chất liệu)",
     typeId: 1,
     image:
-      "https://drive.google.com/file/d/1cGrWarAZze7wulMTKM9b-PLhjwXdVFK2/view?pli=1",
+      "https://i.ibb.co/Nsp2Qpb/4bc8acc291af4e09ba1adb0136cd1602-tplv-o3syd03w52-resize-jpeg-800-800.jpg",
     link: "https://vt.tiktok.com/ZSFX53MJ3/",
   },
   {
