@@ -66,13 +66,16 @@ const IntroYourSelf: React.FC<IProps> = ({}) => {
             <Text label="Hoa Tiên Ốc" type="title" />
           </div>
 
-          <div className="">
-            <Text label="Xin chào những con người cutee đã ghé vào đâyy 🐬" />
-          </div>
-
-          <div className="mt-4">
-            <Text label="Đây là những món đồ mình đã mặc và review trên kênh của mình nè, mọi người ưng thì vào mua nha. 💃🏻" />
-          </div>
+          <p className="mt-4">
+            Hi bae, bên dưới là những món đồ mình đã dùng và review nè.
+            <br />
+            Mọi người không tìm được sản phẩm nào hoặc muốn review sản phẩm nào
+            thì inbox cho mình nha ❤️
+          </p>
+          <br />
+          <br />
+          <p>LOVE,</p>
+          <p>Tien</p>
         </div>
       </div>
     </section>
