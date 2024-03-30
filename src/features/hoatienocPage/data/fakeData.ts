@@ -103,7 +103,7 @@ const productsDataFake: IProduct[] = [
     name: "Keo nước dán móng",
     typeId: 6,
     image:
-      "https://down-vn.img.susercontent.com/file/vn-50009109-2a11bcea38b1a7c164f559ea19d6df1e",
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/ccb05dded96f416081b39f0c2b403ed5~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/50BxYqZ7a8",
   },
 ];
