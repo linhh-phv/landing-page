@@ -30,11 +30,11 @@ const ProductTypeList: React.FC<Props> = ({ productTypes, productsByType }) => {
                     <img
                       src={product?.image}
                       alt="icon social"
-                      className="absolute inset-0 w-full h-full object-cover rounded-md"
+                      className="absolute inset-0 w-full h-full object-cover rounded-md hover:shadow-gray-500 hover:shadow-lg"
                     />
                   </div>
 
-                  <Text label={product?.name} className="mt-2 line-clamp-3" />
+                  <Text label={product?.name} className="mt-2 line-clamp-3 hover:text-red-500" />
                 </div>
               );
             })}

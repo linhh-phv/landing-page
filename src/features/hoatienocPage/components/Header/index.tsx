@@ -44,6 +44,11 @@ const Header: React.FC<IProps> = ({}) => {
         }
       >
         <div className="m-8 md:m-0">
+          <div onClick={onClickAbout} className="c-link cursor-pointer">
+            About
+          </div>
+        </div>
+        <div className="m-8 md:m-0">
           <div onClick={onClickProduct} className="c-link cursor-pointer">
             Sản phẩm
           </div>
@@ -51,11 +56,6 @@ const Header: React.FC<IProps> = ({}) => {
         <div className="m-8 md:m-0">
           <div onClick={onBuyMeACoffee} className="c-link cursor-pointer">
             Buy me a Coffee ☕️
-          </div>
-        </div>
-        <div className="m-8 md:m-0">
-          <div onClick={onClickAbout} className="c-link cursor-pointer">
-            About
           </div>
         </div>
       </ul>
@@ -86,7 +86,7 @@ const Header: React.FC<IProps> = ({}) => {
             fill="none"
             viewBox="0 0 24 24"
             stroke-width="1.5"
-            stroke="currentColor"
+            stroke="white"
             className="h-8 w-8"
           >
             <path

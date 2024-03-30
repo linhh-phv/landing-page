@@ -11,7 +11,8 @@ const ItemChip: React.FC<IProps> = ({ label, disable, onPress }) => {
       <div
         className={clsx(
           "bg-neutral-100 rounded-full px-3 py-1 text-sm font-semibold text-neutral-700 mr-2",
-          { "bg-red-500 text-white": disable }
+          { "bg-red-500 text-white": disable },
+          { "hover:text-red-500": !disable }
         )}
       >
         {label}
