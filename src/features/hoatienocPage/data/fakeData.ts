@@ -4,11 +4,11 @@ import { IProduct } from "../model/products";
 const productsDataFake: IProduct[] = [
   {
     id: 1,
-    name: "RECHIC Đầm ngắn trễ vai Sivia đính nơ vai tay dài bồng bềnh sang trọng tiểu thư",
+    name: "Candy Skirt (có lót quần cùng chất liệu)",
     typeId: 1,
     image:
-      "https://scontent-hkg1-2.xx.fbcdn.net/v/t39.30808-6/428600316_4059081737651433_4627098738903199479_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Jkfl2LtG0LAAX-ZkR6S&_nc_ht=scontent-hkg1-2.xx&oh=00_AfBZLCACIamcV2YbYxDlGC0hVMmb3Rz_x2nn8lMWej1--w&oe=660B523E",
-    link: "https://www.facebook.com/hoatien.oc.9",
+      "https://i.ibb.co/Nsp2Qpb/4bc8acc291af4e09ba1adb0136cd1602-tplv-o3syd03w52-resize-jpeg-800-800.jpg",
+    link: "https://vt.tiktok.com/ZSFX53MJ3/",
   },
   {
     id: 2,
