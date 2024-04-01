@@ -139,7 +139,7 @@ const productsDataFake: IProduct[] = [
     link: "https://shope.ee/30QwHH0oiZ",
   },
    {
-    id: "phukien7 - mua ở giỏ hàng tiktok mình nha",
+    id: "phukien8 - mua ở giỏ hàng tiktok mình nha",
     name: "Nail xinh đẹp 24 móng 501",
     typeId: "phukien",
     image:
@@ -147,7 +147,7 @@ const productsDataFake: IProduct[] = [
     link: "https://www.tiktok.com/@hoatienoc",
   },
    {
-    id: "phukien7 - mua ở giỏ hàng tiktok mình nha",
+    id: "phukien9 - mua ở giỏ hàng tiktok mình nha",
     name: "Nail xinh đẹp mã 76",
     typeId: "phukien",
     image:
@@ -155,7 +155,7 @@ const productsDataFake: IProduct[] = [
     link: "https://www.tiktok.com/@hoatienoc",
   },
  {
-    id: "phukien7 - mua ở giỏ hàng tiktok mình nha",
+    id: "phukien10 - mua ở giỏ hàng tiktok mình nha",
     name: "Nail xinh đẹp mã 120",
     typeId: "phukien",
     image:
@@ -163,7 +163,7 @@ const productsDataFake: IProduct[] = [
     link: "https://www.tiktok.com/@hoatienoc",
   },
    {
-    id: "phukien7",
+    id: "phukien11",
     name: "Nail xinh đẹp mã 346",
     typeId: "phukien",
     image:
