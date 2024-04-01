@@ -26,6 +26,30 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/c9917d99665a41f0bb9f9e86be47c286~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/7UtIXFCzRM",
   },
+   {
+    id: "quan1",
+    name: "Quần dài ống rộng",
+    typeId: "quan",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/2041ad3d32fb42e1bf91117e950aa2ee~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/7KZvQkRdn4",
+  },
+    {
+    id: "quan2",
+    name: "Quần nỉ ống bo",
+    typeId: "quan",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/b262069ee30e4f4b8a7bf9342110aeb9~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/LQB61AqlE",
+  },
+    {
+    id: "quan3",
+    name: "Quần Jeans ống suông màu bụi Retro",
+    typeId: "quan",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/bf5c0ce8e82a46098f8d109ba592485e~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/8KSScup1O6",
+  },
   {
     id: "chanvay1",
     name: "Candy Skirt (có lót quần cùng chất liệu)",
@@ -106,8 +130,46 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/73800febf71b47c69b59dfa3afed866c~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://www.tiktok.com/@hoatienoc",
   },
-];
-
+   {
+    id: "phukien7",
+    name: "Nail đính đá 354",
+    typeId: "phukien",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/6ee07f2645c74f5c9e17b6acd39272a6~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/30QwHH0oiZ",
+  },
+   {
+    id: "phukien7 - mua ở giỏ hàng tiktok mình nha",
+    name: "Nail xinh đẹp 24 móng 501",
+    typeId: "phukien",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/bfd165ccd2084ff5b349415e3557e6c3~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://www.tiktok.com/@hoatienoc",
+  },
+   {
+    id: "phukien7 - mua ở giỏ hàng tiktok mình nha",
+    name: "Nail xinh đẹp mã 76",
+    typeId: "phukien",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/bfd165ccd2084ff5b349415e3557e6c3~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://www.tiktok.com/@hoatienoc",
+  },
+ {
+    id: "phukien7 - mua ở giỏ hàng tiktok mình nha",
+    name: "Nail xinh đẹp mã 120",
+    typeId: "phukien",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/b9d3b1133c444478960d433b6e23792b~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://www.tiktok.com/@hoatienoc",
+  },
+   {
+    id: "phukien7",
+    name: "Nail xinh đẹp mã 346",
+    typeId: "phukien",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/5bb85eabe5854d4aa6fb61d1472637a1~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/1fvYh7GDkZ",
+  },
 const productTypesDataFake: IProductType[] = [
   { id: "ao", name: "Áo" },
   { id: "quan", name: "Quần" },
