@@ -186,6 +186,30 @@ const productsDataFake: IProduct[] = [
       "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/435290383_4088734788019461_6899187140973995449_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dbPblcNPgKoAX_hBneX&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfAb_qE403jOBx2vWgI_WTSHrj3PCLcs1Z-u5Rf6Aa2xOg&oe=66112E4E",
     link: "https://shope.ee/9KL0V5TRpo",
   },
+   {
+    id: "phukien13",
+    name: "Vòng đeo bắp tay",
+    typeId: "phukien",
+    image:
+      "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/435290383_4088734788019461_6899187140973995449_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dbPblcNPgKoAX_hBneX&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfAb_qE403jOBx2vWgI_WTSHrj3PCLcs1Z-u5Rf6Aa2xOg&oe=66112E4E",
+    link: "https://shope.ee/5KorkTm5o2",
+  },
+   {
+    id: "phukien14",
+    name: "Vòng cổ hạt cườm trắng mặt trái tim",
+    typeId: "phukien",
+    image:
+      "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/435290383_4088734788019461_6899187140973995449_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dbPblcNPgKoAX_hBneX&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfAb_qE403jOBx2vWgI_WTSHrj3PCLcs1Z-u5Rf6Aa2xOg&oe=66112E4E",
+    link: "https://shope.ee/3AkNBiGhiE",
+  },
+   {
+    id: "phukien15",
+    name: "tất bắp mỏng",
+    typeId: "phukien",
+    image:
+      "https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/434666829_4088748368018103_3250363921198534567_n.jpg?stp=dst-jpg_p960x960&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3B313Uu6EroAX_YljtP&_nc_ht=scontent.fsgn5-5.fna&oh=00_AfAWQd-cRIJI0l0RaA0kPxkO6LNEN3j37TpwjH8ab9ovEA&oe=6611430E",
+    link: "https://shope.ee/Vjc0ubpzN",
+  },
 ];
 const productTypesDataFake: IProductType[] = [
   { id: "ao", name: "Áo" },
