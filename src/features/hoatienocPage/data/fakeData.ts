@@ -204,7 +204,7 @@ const productsDataFake: IProduct[] = [
   },
    {
     id: "phukien15",
-    name: "tất bắp mỏng",
+    name: "Tất bắp mỏng",
     typeId: "phukien",
     image:
       "https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/434666829_4088748368018103_3250363921198534567_n.jpg?stp=dst-jpg_p960x960&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3B313Uu6EroAX_YljtP&_nc_ht=scontent.fsgn5-5.fna&oh=00_AfAWQd-cRIJI0l0RaA0kPxkO6LNEN3j37TpwjH8ab9ovEA&oe=6611430E",
