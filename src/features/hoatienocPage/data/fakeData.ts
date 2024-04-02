@@ -178,6 +178,14 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/5bb85eabe5854d4aa6fb61d1472637a1~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/1fvYh7GDkZ",
   },
+   {
+    id: "phukien12",
+    name: "Khăn turban nhiều hoạ tiết",
+    typeId: "phukien",
+    image:
+      "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/435290383_4088734788019461_6899187140973995449_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dbPblcNPgKoAX_hBneX&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfAb_qE403jOBx2vWgI_WTSHrj3PCLcs1Z-u5Rf6Aa2xOg&oe=66112E4E",
+    link: "https://shope.ee/9KL0V5TRpo",
+  },
 ];
 const productTypesDataFake: IProductType[] = [
   { id: "ao", name: "Áo" },
