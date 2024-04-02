@@ -82,6 +82,14 @@ const productsDataFake: IProduct[] = [
       "https://tiela.vn/wp-content/uploads/2024/01/kiotviet_064a0dcc22befee844d6abe86f904e8c.jpg",
     link: "https://shope.ee/6KhL6wj1aI",
   },
+   {
+    id: "dam2",
+    name: "Đầm cúp ngực thắt nơ tùng bí đuôi tôm",
+    typeId: "dam",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a97b3de4db7d4fe9af054ad72fbe24c4~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/6pdfVeOuV8",
+  },
   {
     id: "phukien1",
     name: "Keo nước dán móng",
