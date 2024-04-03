@@ -7,7 +7,7 @@ const productsDataFake: IProduct[] = [
     name: "Áo khoác nỉ bông tay dài",
     typeId: "ao",
     image:
-      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/8098a98974d943ea989af585741a6652~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+      "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/434721625_4089578211268452_6153678290880825285_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Q193VSG48IYAX_ArVx9&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfD5tk3mLutQJEuhOyUWx0-6y_kSVcjA5-iWmv846bnFRg&oe=6612BDAF",
     link: "https://shope.ee/9A1WUkEtOi",
   },
   {
@@ -56,7 +56,7 @@ const productsDataFake: IProduct[] = [
     typeId: "chanvay",
     image:
       "https://i.ibb.co/Nsp2Qpb/4bc8acc291af4e09ba1adb0136cd1602-tplv-o3syd03w52-resize-jpeg-800-800.jpg",
-    link: "https://vt.tiktok.com/ZSFX53MJ3/",
+    link: "https://shope.ee/A9u9GwdUrI",
   },
   {
     id: "chanvay2",
@@ -79,7 +79,7 @@ const productsDataFake: IProduct[] = [
     name: "Đầm hoa kết hoa vai",
     typeId: "dam",
     image:
-      "https://tiela.vn/wp-content/uploads/2024/01/kiotviet_064a0dcc22befee844d6abe86f904e8c.jpg",
+      "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/434643711_4089576001268673_415704717585582984_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tR_VwRvlyYQAX8XCE0I&_nc_ht=scontent.fsgn2-11.fna&oh=00_AfB_nJO8O1-22J7096UskHZ9wKUbSH3ubFdA61JJpR3kVg&oe=6612BAD0",
     link: "https://shope.ee/6KhL6wj1aI",
   },
    {
@@ -87,7 +87,7 @@ const productsDataFake: IProduct[] = [
     name: "Đầm cúp ngực thắt nơ tùng bí đuôi tôm",
     typeId: "dam",
     image:
-      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/a97b3de4db7d4fe9af054ad72fbe24c4~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+      "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/434643306_4089574231268850_4815003804638709172_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xSdf9mH0wmUAX-kceOn&_nc_ht=scontent.fsgn2-3.fna&oh=00_AfDze1M6fdtaLC7mOeO_EomJed2yLrt5hGiwH6iIg9pbLw&oe=6612C56E",
     link: "https://shope.ee/6pdfVeOuV8",
   },
   {
@@ -199,7 +199,7 @@ const productsDataFake: IProduct[] = [
     name: "Vòng cổ hạt cườm trắng mặt trái tim",
     typeId: "phukien",
     image:
-      "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/435290383_4088734788019461_6899187140973995449_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dbPblcNPgKoAX_hBneX&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfAb_qE403jOBx2vWgI_WTSHrj3PCLcs1Z-u5Rf6Aa2xOg&oe=66112E4E",
+      "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/434671954_4089574221268851_2475882481079696393_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8xS5FsqvcmEAX-kSExa&_nc_ht=scontent.fsgn2-3.fna&oh=00_AfAuUnSuA_a-RVQPVey-K7PDuLldfgelipN7d8BoIhtjcQ&oe=6612CC9C",
     link: "https://shope.ee/3AkNBiGhiE",
   },
    {
@@ -211,11 +211,11 @@ const productsDataFake: IProduct[] = [
     link: "https://shope.ee/Vjc0ubpzN",
   },
   {
-    id: "phukien16",
+    id: "giay1",
     name: "Giày Mary Jane 9 phân",
-    typeId: "phukien",
+    typeId: "giay",
     image:
-      "https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/434666829_4088748368018103_3250363921198534567_n.jpg?stp=dst-jpg_p960x960&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3B313Uu6EroAX_YljtP&_nc_ht=scontent.fsgn5-5.fna&oh=00_AfAWQd-cRIJI0l0RaA0kPxkO6LNEN3j37TpwjH8ab9ovEA&oe=6611430E",
+      "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/434662037_4089574751268798_2679460610832787892_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=iWaBmasOOj8AX8_0FNV&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfAstxFUXZhJcJKw7TjS5-LxoLXJl7GT6HgProUZb_TIbA&oe=6612AD92",
     link: "https://shope.ee/20YPoWFBcP",
   },
 ];
