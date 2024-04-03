@@ -22,7 +22,7 @@ const IntroYourSelf: React.FC<IProps> = ({}) => {
       <div
         className="relative h-[440px] md:h-[500px] p-4 md:p-6 rounded-xl md:rounded-2xl text-white"
         style={{
-          backgroundImage: `url(https://scontent-hkg4-1.xx.fbcdn.net/v/t39.30808-6/335443725_118780447732664_643392126438155769_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kCqoK1FU7DgAX8wy35R&_nc_ht=scontent-hkg4-1.xx&oh=00_AfCRc0dkT3k0mn7hIpsfKtCDi87nBtZ9pU9BLD5xqcnB_g&oe=660C8D99)`,
+          backgroundImage: `url(https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/335443725_118780447732664_643392126438155769_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VfvVt42FxPsAX_Injm5&_nc_ht=scontent.fsgn5-5.fna&oh=00_AfCmemsxFladmBwi8rDjRGNi5E2PiiREj8CvN4OdhPsjsg&oe=6612B499)`,
           backgroundPosition: "center",
           backgroundSize: "cover",
         }}
