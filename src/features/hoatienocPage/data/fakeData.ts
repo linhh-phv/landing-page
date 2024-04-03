@@ -183,7 +183,7 @@ const productsDataFake: IProduct[] = [
     name: "Khăn turban nhiều hoạ tiết",
     typeId: "phukien",
     image:
-      "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/435290383_4088734788019461_6899187140973995449_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dbPblcNPgKoAX_hBneX&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfAb_qE403jOBx2vWgI_WTSHrj3PCLcs1Z-u5Rf6Aa2xOg&oe=66112E4E",
+      "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/435063507_4089583337934606_1834355474412626373_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KrE9__MogfQAX-WaFvt&_nc_ht=scontent.fsgn2-4.fna&oh=00_AfCWCQUBktkHE-fdCbW-Hp2I3fOm-pp5V-0zQHBozAGkPA&oe=6612AE9D",
     link: "https://shope.ee/9KL0V5TRpo",
   },
    {
@@ -191,7 +191,7 @@ const productsDataFake: IProduct[] = [
     name: "Vòng đeo bắp tay",
     typeId: "phukien",
     image:
-      "https://scontent.fsgn5-10.fna.fbcdn.net/v/t39.30808-6/435290383_4088734788019461_6899187140973995449_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=dbPblcNPgKoAX_hBneX&_nc_ht=scontent.fsgn5-10.fna&oh=00_AfAb_qE403jOBx2vWgI_WTSHrj3PCLcs1Z-u5Rf6Aa2xOg&oe=66112E4E",
+      "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/435063507_4089583337934606_1834355474412626373_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KrE9__MogfQAX-WaFvt&_nc_ht=scontent.fsgn2-4.fna&oh=00_AfCWCQUBktkHE-fdCbW-Hp2I3fOm-pp5V-0zQHBozAGkPA&oe=6612AE9D",
     link: "https://shope.ee/5KorkTm5o2",
   },
    {
