@@ -26,6 +26,14 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/c9917d99665a41f0bb9f9e86be47c286~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/7UtIXFCzRM",
   },
+   {
+    id: "ao4",
+    name: "Áo 2 dây xẻ tà",
+    typeId: "ao",
+    image:
+      "https://www.facebook.com/photo/?fbid=4090235927869347&set=pcb.4090236041202669&__cft__[0]=AZVbJ0HlEdrUqlxPktSR8C9ICSn3M8DYLXV6C23BhkHxYFF13nCCGm3uTd-iX7RsndheKCkOL4WvRwdeZAtv4cyAUvPYgXOi9wqm_CGKXo3VnCrgNXGQIOOdi62Jz28gDiO8RHot7z0SeOgRGPRPxsyLdIXhUT1-iOM_RMmyrrc77A&__tn__=*bH-R",
+    link: "https://shope.ee/8ziDHBMv8C",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
@@ -47,7 +55,7 @@ const productsDataFake: IProduct[] = [
     name: "Quần Jeans ống suông màu bụi Retro",
     typeId: "quan",
     image:
-      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/bf5c0ce8e82a46098f8d109ba592485e~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+      "https://www.facebook.com/photo/?fbid=4090235867869353&set=pcb.4090236041202669&__cft__[0]=AZVbJ0HlEdrUqlxPktSR8C9ICSn3M8DYLXV6C23BhkHxYFF13nCCGm3uTd-iX7RsndheKCkOL4WvRwdeZAtv4cyAUvPYgXOi9wqm_CGKXo3VnCrgNXGQIOOdi62Jz28gDiO8RHot7z0SeOgRGPRPxsyLdIXhUT1-iOM_RMmyrrc77A&__tn__=*bH-R",
     link: "https://shope.ee/8KSScup1O6",
   },
   {
@@ -135,7 +143,7 @@ const productsDataFake: IProduct[] = [
     name: "Mắt kính gọng kim loại - mua ở giỏ hàng tiktok mình nha",
     typeId: "phukien",
     image:
-      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/73800febf71b47c69b59dfa3afed866c~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+      "https://www.facebook.com/photo/?fbid=4090235841202689&set=pcb.4090236041202669&__cft__[0]=AZVbJ0HlEdrUqlxPktSR8C9ICSn3M8DYLXV6C23BhkHxYFF13nCCGm3uTd-iX7RsndheKCkOL4WvRwdeZAtv4cyAUvPYgXOi9wqm_CGKXo3VnCrgNXGQIOOdi62Jz28gDiO8RHot7z0SeOgRGPRPxsyLdIXhUT1-iOM_RMmyrrc77A&__tn__=*bH-R",
     link: "https://www.tiktok.com/@hoatienoc",
   },
   {
