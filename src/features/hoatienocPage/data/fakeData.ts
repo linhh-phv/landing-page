@@ -31,7 +31,7 @@ const productsDataFake: IProduct[] = [
     name: "Áo 2 dây xẻ tà",
     typeId: "ao",
     image:
-      "https://www.facebook.com/photo/?fbid=4090235927869347&set=pcb.4090236041202669&__cft__[0]=AZVbJ0HlEdrUqlxPktSR8C9ICSn3M8DYLXV6C23BhkHxYFF13nCCGm3uTd-iX7RsndheKCkOL4WvRwdeZAtv4cyAUvPYgXOi9wqm_CGKXo3VnCrgNXGQIOOdi62Jz28gDiO8RHot7z0SeOgRGPRPxsyLdIXhUT1-iOM_RMmyrrc77A&__tn__=*bH-R",
+      "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/435606608_4090236217869318_374057815094051181_n.jpg?stp=cp6_dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yF3dxEXBsxwAb6V1Q_h&_nc_ht=scontent.fsgn5-9.fna&oh=00_AfCoOI-tfZt4WipfPeIEVOULF86yzY3XglDu-XgxmZx4gA&oe=6613EE74",
     link: "https://shope.ee/8ziDHBMv8C",
   },
   {
@@ -55,7 +55,7 @@ const productsDataFake: IProduct[] = [
     name: "Quần Jeans ống suông màu bụi Retro",
     typeId: "quan",
     image:
-      "https://www.facebook.com/photo/?fbid=4090235867869353&set=pcb.4090236041202669&__cft__[0]=AZVbJ0HlEdrUqlxPktSR8C9ICSn3M8DYLXV6C23BhkHxYFF13nCCGm3uTd-iX7RsndheKCkOL4WvRwdeZAtv4cyAUvPYgXOi9wqm_CGKXo3VnCrgNXGQIOOdi62Jz28gDiO8RHot7z0SeOgRGPRPxsyLdIXhUT1-iOM_RMmyrrc77A&__tn__=*bH-R",
+      "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/435580920_4090236144535992_4135212224451382512_n.jpg?stp=dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=jPOao2wDPAgAb4KJQ3Z&_nc_ht=scontent.fsgn5-9.fna&oh=00_AfB9lrgspb0MfEu28bMPeGW5zYOYp-bJMP4mCpZoPv1WBQ&oe=6613FA88",
     link: "https://shope.ee/8KSScup1O6",
   },
   {
@@ -143,7 +143,7 @@ const productsDataFake: IProduct[] = [
     name: "Mắt kính gọng kim loại - mua ở giỏ hàng tiktok mình nha",
     typeId: "phukien",
     image:
-      "https://www.facebook.com/photo/?fbid=4090235841202689&set=pcb.4090236041202669&__cft__[0]=AZVbJ0HlEdrUqlxPktSR8C9ICSn3M8DYLXV6C23BhkHxYFF13nCCGm3uTd-iX7RsndheKCkOL4WvRwdeZAtv4cyAUvPYgXOi9wqm_CGKXo3VnCrgNXGQIOOdi62Jz28gDiO8RHot7z0SeOgRGPRPxsyLdIXhUT1-iOM_RMmyrrc77A&__tn__=*bH-R",
+      "https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/435589750_4090236134535993_3593361479860418596_n.jpg?stp=dst-jpg_p960x960&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=G0KNXQthRowAb6Ef0gx&_nc_ht=scontent.fsgn5-14.fna&oh=00_AfC_s2Up3ft752YbtOUv1JXjjNJnqGiIMKy8thGiYTi01Q&oe=6613DDD0",
     link: "https://www.tiktok.com/@hoatienoc",
   },
   {
