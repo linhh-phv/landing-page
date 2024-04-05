@@ -226,6 +226,14 @@ const productsDataFake: IProduct[] = [
       "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/434662037_4089574751268798_2679460610832787892_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=iWaBmasOOj8AX8_0FNV&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfAstxFUXZhJcJKw7TjS5-LxoLXJl7GT6HgProUZb_TIbA&oe=6612AD92",
     link: "https://shope.ee/20YPoWFBcP",
   },
+   {
+    id: "giay2",
+    name: "Giày cổ thấp Moca",
+    typeId: "giay",
+    image:
+      "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/435171526_4091124537780486_2267887965822132067_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PVq2jCZEfpEAb6KA14r&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfBvTjFDlX1yR9x8UyFOgVzrNg_KymbJ_aiSdpxnMO8apQ&oe=66156CBA",
+    link: "https://shope.ee/4KwPj2LuKn",
+  },
 ];
 const productTypesDataFake: IProductType[] = [
   { id: "ao", name: "Áo" },
