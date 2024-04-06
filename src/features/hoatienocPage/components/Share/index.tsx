@@ -12,7 +12,7 @@ const Share: React.FC<IProps> = ({}) => {
     navigator.clipboard
       .writeText(link)
       .then(() => {
-        alert("Đã sao chép vào clipboard");
+        alert("Đã sao chép");
       })
       .catch((error) => {
         console.error("Lỗi khi sao chép vào clipboard: ", error);
@@ -34,7 +34,6 @@ const Share: React.FC<IProps> = ({}) => {
             onClick={copyToClipboard}
           >
             <svg
-              onClick={copyToClipboard}
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
               viewBox="0 0 24 24"
@@ -56,7 +55,6 @@ const Share: React.FC<IProps> = ({}) => {
           onClick={handleShare}
         >
           <svg
-            onClick={handleShare}
             xmlns="http://www.w3.org/2000/svg"
             fill="none"
             viewBox="0 0 24 24"
