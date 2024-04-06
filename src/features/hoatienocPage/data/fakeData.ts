@@ -26,6 +26,14 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/c9917d99665a41f0bb9f9e86be47c286~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/7UtIXFCzRM",
   },
+   {
+    id: "ao4",
+    name: "Áo 2 dây xẻ tà",
+    typeId: "ao",
+    image:
+      "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/435606608_4090236217869318_374057815094051181_n.jpg?stp=cp6_dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yF3dxEXBsxwAb6V1Q_h&_nc_ht=scontent.fsgn5-9.fna&oh=00_AfCoOI-tfZt4WipfPeIEVOULF86yzY3XglDu-XgxmZx4gA&oe=6613EE74",
+    link: "https://shope.ee/8ziDHBMv8C",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
@@ -47,7 +55,7 @@ const productsDataFake: IProduct[] = [
     name: "Quần Jeans ống suông màu bụi Retro",
     typeId: "quan",
     image:
-      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/bf5c0ce8e82a46098f8d109ba592485e~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+      "https://scontent.fsgn5-9.fna.fbcdn.net/v/t39.30808-6/435580920_4090236144535992_4135212224451382512_n.jpg?stp=dst-jpg_p960x960&_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=jPOao2wDPAgAb4KJQ3Z&_nc_ht=scontent.fsgn5-9.fna&oh=00_AfB9lrgspb0MfEu28bMPeGW5zYOYp-bJMP4mCpZoPv1WBQ&oe=6613FA88",
     link: "https://shope.ee/8KSScup1O6",
   },
   {
@@ -135,7 +143,7 @@ const productsDataFake: IProduct[] = [
     name: "Mắt kính gọng kim loại - mua ở giỏ hàng tiktok mình nha",
     typeId: "phukien",
     image:
-      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/73800febf71b47c69b59dfa3afed866c~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+      "https://scontent.fsgn5-14.fna.fbcdn.net/v/t39.30808-6/435589750_4090236134535993_3593361479860418596_n.jpg?stp=dst-jpg_p960x960&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=G0KNXQthRowAb6Ef0gx&_nc_ht=scontent.fsgn5-14.fna&oh=00_AfC_s2Up3ft752YbtOUv1JXjjNJnqGiIMKy8thGiYTi01Q&oe=6613DDD0",
     link: "https://www.tiktok.com/@hoatienoc",
   },
   {
@@ -217,6 +225,14 @@ const productsDataFake: IProduct[] = [
     image:
       "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/434662037_4089574751268798_2679460610832787892_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=iWaBmasOOj8AX8_0FNV&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfAstxFUXZhJcJKw7TjS5-LxoLXJl7GT6HgProUZb_TIbA&oe=6612AD92",
     link: "https://shope.ee/20YPoWFBcP",
+  },
+   {
+    id: "giay2",
+    name: "Giày cổ thấp Moca",
+    typeId: "giay",
+    image:
+      "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/435171526_4091124537780486_2267887965822132067_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PVq2jCZEfpEAb6KA14r&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfBvTjFDlX1yR9x8UyFOgVzrNg_KymbJ_aiSdpxnMO8apQ&oe=66156CBA",
+    link: "https://shope.ee/4KwPj2LuKn",
   },
 ];
 const productTypesDataFake: IProductType[] = [
