@@ -215,7 +215,7 @@ const productsDataFake: IProduct[] = [
     name: "Tất bắp mỏng",
     typeId: "phukien",
     image:
-      "https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/434666829_4088748368018103_3250363921198534567_n.jpg?stp=dst-jpg_p960x960&_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=3B313Uu6EroAX_YljtP&_nc_ht=scontent.fsgn5-5.fna&oh=00_AfAWQd-cRIJI0l0RaA0kPxkO6LNEN3j37TpwjH8ab9ovEA&oe=6611430E",
+      "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/435100163_4092109614348645_3156809775527796141_n.jpg?stp=c69.0.414.414a_dst-jpg_p552x414&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFMSAICJ4Q9b2ut_rW0czsrv74fIMMrCVu_vh8gwysJW0sNaqtMEUlIyud53Lc7u65r97gr6Dk5PXPmBUa4vN3X&_nc_ohc=rLteXHd3UWUAb5MxyE_&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfAkzQn7seLzIcESQBBxh-RKU7Iwvi1aNJyo9pDs5mA8hQ&oe=66171B55",
     link: "https://shope.ee/Vjc0ubpzN",
   },
   {
