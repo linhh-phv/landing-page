@@ -1,5 +1,6 @@
 import { lazy, useRef } from "react";
 import { HoatienocContext } from "./context";
+const Share = lazy(() => import("./components/Share"));
 const Header = lazy(() => import("./components/Header"));
 const IntroYourSelf = lazy(() => import("./components/IntroYourSelf"));
 const Products = lazy(() => import("./components/Products"));
@@ -32,6 +33,7 @@ const HoatienocPage: React.FC<IProps> = ({}) => {
         sectionAboutRef,
       }}
     >
+      <Share />
       <Header />
       <IntroYourSelf />
       <Products />
