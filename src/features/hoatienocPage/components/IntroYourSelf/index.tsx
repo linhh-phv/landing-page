@@ -12,8 +12,9 @@ const IntroYourSelf: React.FC<IProps> = ({}) => {
   const dataFromContext = useContext(HoatienocContext);
 
   const onPressItem = (link: string) => {
-    window.open(link, "_blank");
+    window.open(link, "_self");
   };
+
   return (
     <section
       ref={dataFromContext?.sectionAboutRef}
@@ -22,7 +23,7 @@ const IntroYourSelf: React.FC<IProps> = ({}) => {
       <div
         className="relative h-[440px] md:h-[500px] p-4 md:p-6 rounded-xl md:rounded-2xl text-white"
         style={{
-          backgroundImage: `url(https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/335443725_118780447732664_643392126438155769_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=VfvVt42FxPsAX_Injm5&_nc_ht=scontent.fsgn5-5.fna&oh=00_AfCmemsxFladmBwi8rDjRGNi5E2PiiREj8CvN4OdhPsjsg&oe=6612B499)`,
+          backgroundImage: `url(https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/335443725_118780447732664_643392126438155769_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Mh_MM-n_UFwAb5J3t3o&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfAPQXewsVc-NoThYF0ihxgizhek-u39O8sYyL2U2hc56A&oe=66171999)`,
           backgroundPosition: "center",
           backgroundSize: "cover",
         }}

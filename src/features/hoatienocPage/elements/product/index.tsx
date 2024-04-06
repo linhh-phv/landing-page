@@ -9,7 +9,7 @@ interface Props {
 
 const ProductTypeList: React.FC<Props> = ({ productTypes, productsByType }) => {
   const onPressItem = (link: string) => {
-    window.open(link, "_blank");
+    window.open(link, "_self");
   };
 
   return (
