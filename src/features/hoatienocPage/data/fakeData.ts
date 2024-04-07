@@ -138,6 +138,14 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/f9dd51eaa2334285abba18b407fbf94c~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://www.tiktok.com/@hoatienoc",
   },
+   {
+    id: "tui4",
+    name: "Túi đeo vai có thể tháo dây",
+    typeId: "tui",
+    image:
+      "https://i.imgur.com/F01z2kC.png",
+    link: "https://shope.ee/1AzRV11wNU",
+  },
   {
     id: "phukien6",
     name: "Mắt kính gọng kim loại - mua ở giỏ hàng tiktok mình nha",
