@@ -256,7 +256,7 @@ const productsDataFake: IProduct[] = [
     typeId: "phukien",
     image:
       "https://i.imgur.com/0R22ehh.png",
-    link: "https://i.imgur.com/0R22ehh.png",
+    link: "https://shope.ee/4KwT3P106c",
   },
     {
     id: "phukien19",
