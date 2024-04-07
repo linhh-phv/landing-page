@@ -115,25 +115,25 @@ const productsDataFake: IProduct[] = [
     link: "https://shope.ee/AKDTvgbdYO",
   },
   {
-    id: "phukien3",
+    id: "tui1",
     name: "Túi vải đeo chéo",
-    typeId: "phukien",
+    typeId: "tui",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/25fe5a095ad748338fe4898792864c50~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/9zadXMZxwg",
   },
   {
-    id: "phukien4",
+    id: "tui2",
     name: "Balo vải Laptop 16 inch",
-    typeId: "phukien",
+    typeId: "tui",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/7461f4a7579d4968a459d0ca647c1584~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/B6hpTFkyM",
   },
   {
-    id: "phukien5",
+    id: "tui3",
     name: "Túi xách Juno - mua ở giỏ hàng tiktok mình nha",
-    typeId: "phukien",
+    typeId: "tui",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/f9dd51eaa2334285abba18b407fbf94c~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://www.tiktok.com/@hoatienoc",
@@ -213,7 +213,7 @@ const productsDataFake: IProduct[] = [
    {
     id: "phukien15",
     name: "Tất bắp mỏng",
-    typeId: "phukien",
+    typeId: "giay",
     image:
       "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/435100163_4092109614348645_3156809775527796141_n.jpg?stp=c69.0.414.414a_dst-jpg_p552x414&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFMSAICJ4Q9b2ut_rW0czsrv74fIMMrCVu_vh8gwysJW0sNaqtMEUlIyud53Lc7u65r97gr6Dk5PXPmBUa4vN3X&_nc_ohc=rLteXHd3UWUAb5MxyE_&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfAkzQn7seLzIcESQBBxh-RKU7Iwvi1aNJyo9pDs5mA8hQ&oe=66171B55",
     link: "https://shope.ee/Vjc0ubpzN",
@@ -234,14 +234,64 @@ const productsDataFake: IProduct[] = [
       "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/435171526_4091124537780486_2267887965822132067_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PVq2jCZEfpEAb6KA14r&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfBvTjFDlX1yR9x8UyFOgVzrNg_KymbJ_aiSdpxnMO8apQ&oe=66156CBA",
     link: "https://shope.ee/4KwPj2LuKn",
   },
+   {
+    id: "phukien16",
+    name: "Kẹp tóc mái màu sắc Pastel",
+    typeId: "phukien",
+    image:
+      "https://i.imgur.com/DnGsjRV.png",
+    link: "https://shope.ee/4KwT3X2EnD",
+  },
+    {
+    id: "phukien17",
+    name: "Vòng cổ Hai Lớp Không Gỉ Mặt Trái Tim",
+    typeId: "phukien",
+    image:
+      "https://i.imgur.com/nUhyrHO.png",
+    link: "https://shope.ee/5Kp0EEii4Q",
+  },
+     {
+    id: "phukien18",
+    name: "Kẹp tóc ngôi sao màu bạc",
+    typeId: "phukien",
+    image:
+      "https://i.imgur.com/0R22ehh.png",
+    link: "https://i.imgur.com/0R22ehh.png",
+  },
+    {
+    id: "phukien19",
+    name: "Kẹp Tóc Kim Loại Đính Đá chữ Min",
+    typeId: "phukien",
+    image:
+      "https://i.imgur.com/01fVpP1.png",
+    link: "https://shope.ee/2foF35uNqT",
+  },
+   {
+    id: "phukien20",
+    name: "Kẹp Tóc Kim Loại Đính Đá chữ Min",
+    typeId: "phukien",
+    image:
+      "https://i.imgur.com/ZzExD5r.png",
+    link: "https://shope.ee/50C9op8Zlc",
+  },
+    {
+    id: "makeup1",
+    name: "Phấn mắt dạng lỏng FOCALLURE 5 màu",
+    typeId: "phukien",
+    image:
+      "https://i.imgur.com/8hqm8H2.png",
+    link: "https://shope.ee/20YYHw6fue",
+  },
 ];
 const productTypesDataFake: IProductType[] = [
   { id: "ao", name: "Áo" },
   { id: "quan", name: "Quần" },
-  { id: "giay", name: "Giày" },
+  { id: "giay", name: "Giày & Tất" },
   { id: "chanvay", name: "Chân Váy" },
   { id: "dam", name: "Đầm" },
   { id: "phukien", name: "Phụ kiện" },
+  { id: "tui", name: "Balo & Túi xách" },
+  { id: "makeup", name: "Make up" },
 ];
 
 export { productsDataFake, productTypesDataFake };
