@@ -7,7 +7,7 @@ const productsDataFake: IProduct[] = [
     name: "Áo khoác nỉ bông tay dài",
     typeId: "ao",
     image:
-      "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/434721625_4089578211268452_6153678290880825285_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=Q193VSG48IYAX_ArVx9&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfD5tk3mLutQJEuhOyUWx0-6y_kSVcjA5-iWmv846bnFRg&oe=6612BDAF",
+      "https://i.imgur.com/xhHBnK6.png",
     link: "https://shope.ee/9A1WUkEtOi",
   },
   {
@@ -87,7 +87,7 @@ const productsDataFake: IProduct[] = [
     name: "Đầm hoa kết hoa vai",
     typeId: "dam",
     image:
-      "https://scontent.fsgn2-11.fna.fbcdn.net/v/t39.30808-6/434643711_4089576001268673_415704717585582984_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=tR_VwRvlyYQAX8XCE0I&_nc_ht=scontent.fsgn2-11.fna&oh=00_AfB_nJO8O1-22J7096UskHZ9wKUbSH3ubFdA61JJpR3kVg&oe=6612BAD0",
+      "https://i.imgur.com/xM0MU3q.png",
     link: "https://shope.ee/6KhL6wj1aI",
   },
    {
@@ -95,7 +95,7 @@ const productsDataFake: IProduct[] = [
     name: "Đầm cúp ngực thắt nơ tùng bí đuôi tôm",
     typeId: "dam",
     image:
-      "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/434643306_4089574231268850_4815003804638709172_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=xSdf9mH0wmUAX-kceOn&_nc_ht=scontent.fsgn2-3.fna&oh=00_AfDze1M6fdtaLC7mOeO_EomJed2yLrt5hGiwH6iIg9pbLw&oe=6612C56E",
+      "https://i.imgur.com/xOzv1nA.png",
     link: "https://shope.ee/6pdfVeOuV8",
   },
   {
@@ -199,7 +199,7 @@ const productsDataFake: IProduct[] = [
     name: "Khăn turban nhiều hoạ tiết",
     typeId: "phukien",
     image:
-      "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/435063507_4089583337934606_1834355474412626373_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KrE9__MogfQAX-WaFvt&_nc_ht=scontent.fsgn2-4.fna&oh=00_AfCWCQUBktkHE-fdCbW-Hp2I3fOm-pp5V-0zQHBozAGkPA&oe=6612AE9D",
+      "https://i.imgur.com/VG1wdQL.png",
     link: "https://shope.ee/9KL0V5TRpo",
   },
    {
@@ -207,7 +207,7 @@ const productsDataFake: IProduct[] = [
     name: "Vòng đeo bắp tay",
     typeId: "phukien",
     image:
-      "https://scontent.fsgn2-4.fna.fbcdn.net/v/t39.30808-6/435063507_4089583337934606_1834355474412626373_n.jpg?stp=cp6_dst-jpg&_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=KrE9__MogfQAX-WaFvt&_nc_ht=scontent.fsgn2-4.fna&oh=00_AfCWCQUBktkHE-fdCbW-Hp2I3fOm-pp5V-0zQHBozAGkPA&oe=6612AE9D",
+      "https://i.imgur.com/VG1wdQL.png",
     link: "https://shope.ee/5KorkTm5o2",
   },
    {
@@ -215,7 +215,7 @@ const productsDataFake: IProduct[] = [
     name: "Vòng cổ hạt cườm trắng mặt trái tim",
     typeId: "phukien",
     image:
-      "https://scontent.fsgn2-3.fna.fbcdn.net/v/t39.30808-6/434671954_4089574221268851_2475882481079696393_n.jpg?stp=cp6_dst-jpg&_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=8xS5FsqvcmEAX-kSExa&_nc_ht=scontent.fsgn2-3.fna&oh=00_AfAuUnSuA_a-RVQPVey-K7PDuLldfgelipN7d8BoIhtjcQ&oe=6612CC9C",
+      "https://i.imgur.com/fIypvqz.png",
     link: "https://shope.ee/3AkNBiGhiE",
   },
    {
@@ -231,7 +231,7 @@ const productsDataFake: IProduct[] = [
     name: "Giày Mary Jane 9 phân",
     typeId: "giay",
     image:
-      "https://scontent.fsgn2-7.fna.fbcdn.net/v/t39.30808-6/434662037_4089574751268798_2679460610832787892_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=iWaBmasOOj8AX8_0FNV&_nc_ht=scontent.fsgn2-7.fna&oh=00_AfAstxFUXZhJcJKw7TjS5-LxoLXJl7GT6HgProUZb_TIbA&oe=6612AD92",
+      "https://i.imgur.com/EpcpLEz.png",
     link: "https://shope.ee/20YPoWFBcP",
   },
    {
