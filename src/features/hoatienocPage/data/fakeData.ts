@@ -151,7 +151,7 @@ const productsDataFake: IProduct[] = [
     name: "Mắt kính gọng kim loại - mua ở giỏ hàng tiktok mình nha",
     typeId: "phukien",
     image:
-      "https://imgur.com/gallery/fPraR5V",
+      "https://i.imgur.com/oTIsf4U_d.jpg?maxwidth=520&shape=thumb&fidelity=high",
     link: "https://www.tiktok.com/@hoatienoc",
   },
   {
@@ -285,7 +285,7 @@ const productsDataFake: IProduct[] = [
     {
     id: "makeup1",
     name: "Phấn mắt dạng lỏng FOCALLURE 5 màu",
-    typeId: "phukien",
+    typeId: "makeup",
     image:
       "https://i.imgur.com/8hqm8H2.png",
     link: "https://shope.ee/20YYHw6fue",
