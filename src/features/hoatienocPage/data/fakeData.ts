@@ -223,7 +223,7 @@ const productsDataFake: IProduct[] = [
     name: "Tất bắp mỏng",
     typeId: "giay",
     image:
-      "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/435100163_4092109614348645_3156809775527796141_n.jpg?stp=c69.0.414.414a_dst-jpg_p552x414&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFMSAICJ4Q9b2ut_rW0czsrv74fIMMrCVu_vh8gwysJW0sNaqtMEUlIyud53Lc7u65r97gr6Dk5PXPmBUa4vN3X&_nc_ohc=rLteXHd3UWUAb5MxyE_&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfAkzQn7seLzIcESQBBxh-RKU7Iwvi1aNJyo9pDs5mA8hQ&oe=66171B55",
+      "https://i.imgur.com/X3HwFeR.jpeg",
     link: "https://shope.ee/Vjc0ubpzN",
   },
   {
@@ -239,7 +239,7 @@ const productsDataFake: IProduct[] = [
     name: "Giày cổ thấp Moca",
     typeId: "giay",
     image:
-      "https://scontent.fsgn2-5.fna.fbcdn.net/v/t39.30808-6/435171526_4091124537780486_2267887965822132067_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=PVq2jCZEfpEAb6KA14r&_nc_ht=scontent.fsgn2-5.fna&oh=00_AfBvTjFDlX1yR9x8UyFOgVzrNg_KymbJ_aiSdpxnMO8apQ&oe=66156CBA",
+      "https://i.imgur.com/NKbWSQs.jpeg",
     link: "https://shope.ee/4KwPj2LuKn",
   },
    {
