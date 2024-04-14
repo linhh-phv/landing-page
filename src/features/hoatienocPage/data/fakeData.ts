@@ -40,8 +40,7 @@ const productsDataFake: IProduct[] = [
     typeId: "ao",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/842d3058242c404f88abb22c36b70d81~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
-    link: "https://shope.ee/qMmNHxiKe
-",
+    link: "https://shope.ee/qMmNHxiKe",
   },
   {
     id: "quan1",
