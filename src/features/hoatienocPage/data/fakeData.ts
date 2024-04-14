@@ -34,6 +34,15 @@ const productsDataFake: IProduct[] = [
       "https://i.imgur.com/HZsPmin.jpeg",
     link: "https://shope.ee/8ziDHBMv8C",
   },
+   {
+    id: "ao5",
+    name: "Áo trễ vai phối bèo",
+    typeId: "ao",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/842d3058242c404f88abb22c36b70d81~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/qMmNHxiKe
+",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
@@ -281,6 +290,14 @@ const productsDataFake: IProduct[] = [
     image:
       "https://i.imgur.com/ZzExD5r.png",
     link: "https://shope.ee/50C9op8Zlc",
+  },
+    {
+    id: "phukien21",
+    name: "Kẹp Tóc Hoa Sứ",
+    typeId: "phukien",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/4d1642de6dd04235ba46a868dc0aeefd~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/2q7qktiusy",
   },
     {
     id: "makeup1",
