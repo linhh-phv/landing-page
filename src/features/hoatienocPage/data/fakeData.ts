@@ -42,6 +42,14 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/842d3058242c404f88abb22c36b70d81~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/qMmNHxiKe",
   },
+    {
+    id: "ao6",
+    name: "Áo ống thun cotton 2 lớp",
+    typeId: "ao",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/597db40378ad46acb4940a22e264b1b8~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/1VcYgZylqY",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
@@ -89,6 +97,14 @@ const productsDataFake: IProduct[] = [
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/197cb73c58a94358a602428af89c3869~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://s.lazada.vn/s.es1L2?cc",
+  },
+   {
+    id: "chanvay4",
+    name: "Chân váy dù ngắn rút dây",
+    typeId: "chanvay",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/dbf92685dbf84164b43107d6fb1be860~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/8KSsrtroVE",
   },
   {
     id: "dam1",
@@ -297,6 +313,14 @@ const productsDataFake: IProduct[] = [
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/4d1642de6dd04235ba46a868dc0aeefd~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/2q7qktiusy",
+  },
+   {
+    id: "phukien22",
+    name: "Tai nghe Bluetooth có mic chống ồn",
+    typeId: "phukien",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/bde1cc7581eb4fed94dd11de73757b09~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/7AGvTqyENy",
   },
     {
     id: "makeup1",
