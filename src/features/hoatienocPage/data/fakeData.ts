@@ -50,6 +50,14 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/597db40378ad46acb4940a22e264b1b8~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/1VcYgZylqY",
   },
+   {
+    id: "ao7",
+    name: "Áo croptop in nổi",
+    typeId: "ao",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/7df7cb9fc5774d5686dd1ca43abb77f6~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/20YvjU6KYe",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
@@ -73,6 +81,13 @@ const productsDataFake: IProduct[] = [
     image:
       "https://i.imgur.com/D64cIIp.jpeg",
     link: "https://shope.ee/8KSScup1O6",
+  },
+     id: "quan4",
+    name: "Quần Jeans ống siêu rộng dây thừng",
+    typeId: "quan",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/2a567a0298364455bde7b9b64559377b~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/8f5pfsv3HY",
   },
   {
     id: "chanvay1",
