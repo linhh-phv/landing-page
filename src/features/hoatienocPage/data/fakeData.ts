@@ -49,8 +49,8 @@ const productsDataFake: IProduct[] = [
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/597db40378ad46acb4940a22e264b1b8~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/1VcYgZylqY",
-  },
-   {
+   },
+    {
     id: "ao7",
     name: "Áo croptop in nổi",
     typeId: "ao",
@@ -82,7 +82,7 @@ const productsDataFake: IProduct[] = [
       "https://i.imgur.com/D64cIIp.jpeg",
     link: "https://shope.ee/8KSScup1O6",
   },
-  (
+  {
      id: "quan4",
     name: "Quần Jeans ống siêu rộng dây thừng",
     typeId: "quan",
