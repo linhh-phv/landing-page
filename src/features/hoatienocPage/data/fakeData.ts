@@ -82,6 +82,7 @@ const productsDataFake: IProduct[] = [
       "https://i.imgur.com/D64cIIp.jpeg",
     link: "https://shope.ee/8KSScup1O6",
   },
+  (
      id: "quan4",
     name: "Quần Jeans ống siêu rộng dây thừng",
     typeId: "quan",
