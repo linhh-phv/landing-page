@@ -58,6 +58,14 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/7df7cb9fc5774d5686dd1ca43abb77f6~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/20YvjU6KYe",
   },
+    {
+    id: "ao7",
+    name: "Áo thun 2 dây cột nơ xẻ tà",
+    typeId: "ao",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/3f278214f1dc49cda03d10e4b512d836~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/2LBpQo85rx",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
@@ -337,6 +345,14 @@ const productsDataFake: IProduct[] = [
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/bde1cc7581eb4fed94dd11de73757b09~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/7AGvTqyENy",
+  },
+  {
+    id: "phukien23",
+    name: "Mũ nồi khoá da",
+    typeId: "phukien",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/195169001abc42b0a56ebed607df9618~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/AKE6xoNN0i",
   },
     {
     id: "makeup1",
