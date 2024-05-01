@@ -59,12 +59,20 @@ const productsDataFake: IProduct[] = [
     link: "https://shope.ee/20YvjU6KYe",
   },
     {
-    id: "ao7",
+    id: "ao8",
     name: "Áo thun 2 dây cột nơ xẻ tà",
     typeId: "ao",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/3f278214f1dc49cda03d10e4b512d836~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/2LBpQo85rx",
+  },
+  {
+    id: "ao9",
+    name: "Áo croptop khoéc vai",
+    typeId: "ao",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/de6195058017460590943e8e3401c10d~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/20ZAoTirbB",
   },
   {
     id: "quan1",
@@ -353,6 +361,14 @@ const productsDataFake: IProduct[] = [
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/195169001abc42b0a56ebed607df9618~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/AKE6xoNN0i",
+  },
+   {
+    id: "phukien24",
+    name: "Mũ len",
+    typeId: "phukien",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ln8n1zmunbo820",
+    link: "https://shope.ee/3Al8CiKKZX",
   },
     {
     id: "makeup1",
