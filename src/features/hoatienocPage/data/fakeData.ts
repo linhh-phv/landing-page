@@ -74,6 +74,14 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/de6195058017460590943e8e3401c10d~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/20ZAoTirbB",
   },
+   {
+    id: "ao10",
+    name: "Áo thun cut out ôm body",
+    typeId: "ao",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/dbe766c834d54d03b260e33b14b93d14~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/4fZyQkix5c",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
@@ -299,6 +307,14 @@ const productsDataFake: IProduct[] = [
     link: "https://shope.ee/4KwPj2LuKn",
   },
    {
+    id: "giay3",
+    name: "Giày thể thao đế bằng da PU cao cấp",
+    typeId: "giay",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/f0bb9c86b4b64fd7a6e7cc8eed742ef6~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/10gg4GLib9",
+  },
+   {
     id: "phukien16",
     name: "Kẹp tóc mái màu sắc Pastel",
     typeId: "phukien",
@@ -354,21 +370,29 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/bde1cc7581eb4fed94dd11de73757b09~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/7AGvTqyENy",
   },
-  {
-    id: "phukien23",
-    name: "Mũ nồi khoá da",
-    typeId: "phukien",
-    image:
-      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/195169001abc42b0a56ebed607df9618~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
-    link: "https://shope.ee/AKE6xoNN0i",
-  },
    {
     id: "phukien24",
-    name: "Mũ len",
+    name: "Vòng đeo bắp tay hình nốt nhạc",
     typeId: "phukien",
     image:
-      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ln8n1zmunbo820",
-    link: "https://shope.ee/3Al8CiKKZX",
+      "https://down-vn.img.susercontent.com/file/sg-11134201-7rbnj-lly1hmx2wajdf7",
+    link: "https://shope.ee/3q0rRXQz42",
+  },
+   {
+    id: "phukien25",
+    name: "Vòng cổ mạ bạc hình trái tim",
+    typeId: "phukien",
+    image:
+      "https://down-vn.img.susercontent.com/file/sg-11134201-7qvef-lgg6bajou0ateb",
+    link: "https://shope.ee/6peT1QWfdn",
+  },
+    {
+    id: "phukien26",
+    name: "Vòng cổ đính đá đen măht trái tim",
+    typeId: "phukien",
+    image:
+      "https://down-vn.img.susercontent.com/file/sg-11134201-7qvco-lgeu4wn952dy5b",
+    link: "https://shope.ee/8pPXPBnMnI",
   },
     {
     id: "makeup1",
@@ -377,6 +401,22 @@ const productsDataFake: IProduct[] = [
     image:
       "https://i.imgur.com/8hqm8H2.png",
     link: "https://shope.ee/20YYHw6fue",
+  },
+   {
+    id: "mu1",
+    name: "Mũ nồi khoá da",
+    typeId: "mu",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/195169001abc42b0a56ebed607df9618~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://shope.ee/AKE6xoNN0i",
+  },
+   {
+    id: "mu2",
+    name: "Mũ len",
+    typeId: "mu",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ln8n1zmunbo820",
+    link: "https://shope.ee/3Al8CiKKZX",
   },
 ];
 const productTypesDataFake: IProductType[] = [
@@ -388,6 +428,7 @@ const productTypesDataFake: IProductType[] = [
   { id: "phukien", name: "Phụ kiện" },
   { id: "tui", name: "Balo & Túi xách" },
   { id: "makeup", name: "Make up" },
+  { id: "mu", name: "Mũ" },
 ];
 
 export { productsDataFake, productTypesDataFake };
