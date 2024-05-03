@@ -314,6 +314,14 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/f0bb9c86b4b64fd7a6e7cc8eed742ef6~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/10gg4GLib9",
   },
+    {
+    id: "guay4",
+    name: "Tất phối 10 nơ có thể tháo rời",
+    typeId: "giay",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-loz4ujkaa5ame4",
+    link: "https://shope.ee/6V1cdM2T8p",
+  },
    {
     id: "phukien16",
     name: "Kẹp tóc mái màu sắc Pastel",
