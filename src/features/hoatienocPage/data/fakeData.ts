@@ -82,6 +82,14 @@ const productsDataFake: IProduct[] = [
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/dbe766c834d54d03b260e33b14b93d14~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/4fZyQkix5c",
   },
+    {
+    id: "ao11",
+    name: "Áo thun Unisex Bad Rabbit",
+    typeId: "ao",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfzc5l7pzgfrdb",
+    link: "https://shope.ee/VkUOWeN5l",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
@@ -145,6 +153,14 @@ const productsDataFake: IProduct[] = [
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/dbf92685dbf84164b43107d6fb1be860~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/8KSsrtroVE",
+  },
+  {
+    id: "chanvay5",
+    name: "Chân váy Jean kèm đai",
+    typeId: "chanvay",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lu4hhvypmxb3e3",
+    link: "https://shope.ee/1LJdCUoRAe",
   },
   {
     id: "dam1",
@@ -321,6 +337,14 @@ const productsDataFake: IProduct[] = [
     image:
       "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-loz4ujkaa5ame4",
     link: "https://shope.ee/6V1cdM2T8p",
+  },
+  {
+    id: "giay5",
+    name: "Giày Boot Chouchi",
+    typeId: "giay",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lmh84mt5jjdr93",
+    link: "https://shope.ee/5pm2ZoSymH",
   },
    {
     id: "phukien16",
