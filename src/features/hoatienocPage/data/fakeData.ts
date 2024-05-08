@@ -90,6 +90,14 @@ const productsDataFake: IProduct[] = [
       "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lfzc5l7pzgfrdb",
     link: "https://shope.ee/VkUOWeN5l",
   },
+   {
+    id: "ao12",
+    name: "Áo khoác form rộng",
+    typeId: "ao",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lftwnqerrn8q6b",
+    link: "https://shope.ee/2VVbonuhAO",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
