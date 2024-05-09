@@ -245,7 +245,7 @@ const productsDataFake: IProduct[] = [
   {
     id: "phukien7",
     name: "Nail đính đá 354",
-    typeId: "phukien",
+    typeId: "nail",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/6ee07f2645c74f5c9e17b6acd39272a6~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/30QwHH0oiZ",
@@ -253,7 +253,7 @@ const productsDataFake: IProduct[] = [
   {
     id: "phukien8 - mua ở giỏ hàng tiktok mình nha",
     name: "Nail xinh đẹp 24 móng 501",
-    typeId: "phukien",
+    typeId: "nail",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/bfd165ccd2084ff5b349415e3557e6c3~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://www.tiktok.com/@hoatienoc",
@@ -261,7 +261,7 @@ const productsDataFake: IProduct[] = [
   {
     id: "phukien9 - mua ở giỏ hàng tiktok mình nha",
     name: "Nail xinh đẹp mã 76",
-    typeId: "phukien",
+    typeId: "nail",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/bfd165ccd2084ff5b349415e3557e6c3~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://www.tiktok.com/@hoatienoc",
@@ -269,7 +269,7 @@ const productsDataFake: IProduct[] = [
   {
     id: "phukien10 - mua ở giỏ hàng tiktok mình nha",
     name: "Nail xinh đẹp mã 120",
-    typeId: "phukien",
+    typeId: "nail",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/b9d3b1133c444478960d433b6e23792b~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://www.tiktok.com/@hoatienoc",
@@ -277,7 +277,7 @@ const productsDataFake: IProduct[] = [
   {
     id: "phukien11",
     name: "Nail xinh đẹp mã 346",
-    typeId: "phukien",
+    typeId: "nail",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/5bb85eabe5854d4aa6fb61d1472637a1~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/1fvYh7GDkZ",
@@ -458,6 +458,126 @@ const productsDataFake: IProduct[] = [
       "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-ln8n1zmunbo820",
     link: "https://shope.ee/3Al8CiKKZX",
   },
+   {
+    id: "nail1",
+    name: "Base top cứng móng kềm dầu",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lk50j0no20aqf6",
+    link: "https://shope.ee/oIx7q6DB",
+  },
+  {
+    id: "nail2",
+    name: "Kềm Nghĩa không gỉ inox",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljmnqlwaitxe6d",
+    link: "https://shope.ee/A9v53xeQ7k",
+  },
+   {
+    id: "nail3",
+    name: "Nước phá gel lạnh",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lk0gfdo3fpj6b0",
+    link: "https://shope.ee/4Adrv5bICC",
+  },
+   {
+    id: "nail4",
+    name: "Sơn gel thạch 15ml",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lp20u3a6ph0b62",
+    link: "https://shope.ee/6V1mrmIRQ0",
+  },
+   {
+    id: "nail5",
+    name: "Sơn mắt mèo kim cương",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-litw08bs16vg06",
+    link: "https://shope.ee/40KRtGhXOc",
+  },
+   {
+    id: "nail6",
+    name: "Sơn top cao cấp",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq475hmzkhtj4b",
+    link: "https://shope.ee/AUXvdR8waH",
+  },
+   {
+    id: "nail7",
+    name: "Sơn base cao cấp",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lq475hmzkhtj4b",
+    link: "https://shope.ee/AUXvdR8waH",
+  },
+    {
+    id: "nail8",
+    name: "Nước sáng đá tháo móng giả",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lj2i5m2rs9aka3",
+    link: "https://shope.ee/qNQ7pAyXc",
+  },
+   {
+    id: "nail9",
+    name: "Nước sáng đá tháo móng giả",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lj2i5m2rs9aka3",
+    link: "https://shope.ee/qNQ7pAyXc",
+  },
+   {
+    id: "nail10",
+    name: "Cây cạo phá gel",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lsgictrix41w45",
+    link: "https://s.shopee.vn/605WHyWLRF",
+  },
+    {
+    id: "nail11",
+    name: "Cánh hoa nail ẩn",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/e34beaf950c8b89bdb1db42fd444d64b",
+    link: "https://shope.ee/1qFxKR0uRz",
+  },
+    {
+    id: "nail12",
+    name: "Nam châm mắt mèo",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134201-23020-jaeheaxezsnv5f",
+    link: "https://shope.ee/5AWPIeuOC2",
+  },
+    {
+    id: "nail13",
+    name: "100 viên đá khối chân bằng",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lpsykaks45rrd8",
+    link: "https://shope.ee/9KLyGUa5FC",
+  },
+   {
+    id: "nail14",
+    name: "Bút chấm đá nail",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134201-23020-p5u0yos981nvc1",
+    link: "https://shope.ee/1qFxKodwlW",
+  },
+    {
+    id: "nail15",
+    name: "Gel vẽ nail siêu đặc",
+    typeId: "nail",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-litvx16gxfbmf3",
+    link: "https://shope.ee/4KxIJQhIFu",
+  },
 ];
 const productTypesDataFake: IProductType[] = [
   { id: "ao", name: "Áo" },
@@ -469,6 +589,8 @@ const productTypesDataFake: IProductType[] = [
   { id: "tui", name: "Balo & Túi xách" },
   { id: "makeup", name: "Make up" },
   { id: "mu", name: "Mũ" },
+  { id: "nail", name: "Nail" },
+
 ];
 
 export { productsDataFake, productTypesDataFake };
