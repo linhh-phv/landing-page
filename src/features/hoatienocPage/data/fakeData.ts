@@ -98,6 +98,14 @@ const productsDataFake: IProduct[] = [
       "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lftwnqerrn8q6b",
     link: "https://shope.ee/2VVbonuhAO",
   },
+   {
+    id: "ao13",
+    name: "Áo ống thun ren in nơ",
+    typeId: "ao",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lu3vr7dkuryp17",
+    link: "https://s.shopee.vn/7pXRyNnztI",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
