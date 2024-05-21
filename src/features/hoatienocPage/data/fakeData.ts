@@ -490,6 +490,14 @@ const productsDataFake: IProduct[] = [
       "https://down-vn.img.susercontent.com/file/f659baee8457b52038c94bd0c674e241",
     link: "https://s.shopee.vn/9KMHYYuEQU",
   },
+  {
+     id: "makeup7",
+    name: "Kẹp nam châm chữ V",
+    typeId: "makeup",
+    image:
+      "https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-lo59kasz680zd3",
+    link: "https://shope.ee/3q1L0svbLA",
+  },
    {
     id: "mu1",
     name: "Mũ nồi khoá da",
