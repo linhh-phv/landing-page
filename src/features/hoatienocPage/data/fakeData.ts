@@ -450,6 +450,46 @@ const productsDataFake: IProduct[] = [
       "https://i.imgur.com/8hqm8H2.png",
     link: "https://shope.ee/20YYHw6fue",
   },
+    {
+    id: "makeup2",
+    name: "Kem má hồng",
+    typeId: "makeup",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134201-23020-jiw5iaxlcnnv90",
+    link: "https://s.shopee.vn/6KifygoHKK",
+  },
+   {
+    id: "makeup3",
+    name: "Mi nam châm từ tính",
+    typeId: "makeup",
+    image:
+      "https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-llvqqkjf0x7mef",
+    link: "https://shope.ee/9ez7kqXbFQ",
+  },
+   {
+    id: "makeup4",
+    name: "Dung dịch vệ sinh lông mi",
+    typeId: "makeup",
+    image:
+      "https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-lp8ujks1g2fw84",
+    link: "https://s.shopee.vn/20ZgovCzPP",
+  },
+   {
+    id: "makeup5",
+    name: "Gel định hình lông mi",
+    typeId: "makeup",
+    image:
+      "https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-lp8ujks1g2fw84",
+    link: "https://shope.ee/1B0ZpRawsR",
+  },
+  {
+    id: "makeup6",
+    name: "Phấn mắt chống dị ứng",
+    typeId: "makeup",
+    image:
+      "https://down-vn.img.susercontent.com/file/f659baee8457b52038c94bd0c674e241",
+    link: "https://s.shopee.vn/9KMHYYuEQU",
+  },
    {
     id: "mu1",
     name: "Mũ nồi khoá da",
