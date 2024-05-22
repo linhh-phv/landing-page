@@ -106,6 +106,14 @@ const productsDataFake: IProduct[] = [
       "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lu3vr7dkuryp17",
     link: "https://s.shopee.vn/7pXRyNnztI",
   },
+   {
+    id: "ao14",
+    name: "Áo ống CICI",
+    typeId: "ao",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh6564xyf2lv70",
+    link: "https://s.shopee.vn/3L55kB2BoX",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
