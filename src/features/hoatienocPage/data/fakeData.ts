@@ -3,6 +3,14 @@ import { IProduct } from "../model/products";
 
 const productsDataFake: IProduct[] = [
   {
+    id: "set1",
+    name: "Set áo croptop dù và chân váy bí",
+    typeId: "set",
+    image:
+      "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljcmk9l587ik02",
+    link: "https://shope.ee/6fLZS9Tf8B",
+  },
+  {
     id: "ao1",
     name: "Áo khoác nỉ bông tay dài",
     typeId: "ao",
@@ -644,6 +652,7 @@ const productsDataFake: IProduct[] = [
   },
 ];
 const productTypesDataFake: IProductType[] = [
+  { id: "set", name: "Set trang phục" },
   { id: "ao", name: "Áo" },
   { id: "quan", name: "Quần" },
   { id: "giay", name: "Giày & Tất" },
