@@ -122,6 +122,14 @@ const productsDataFake: IProduct[] = [
       "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-lh6564xyf2lv70",
     link: "https://s.shopee.vn/3L55kB2BoX",
   },
+   {
+    id: "ao15",
+    name: "Hộp quà hoa áo - Mua hàng ở tiktok shop của mình nha",
+    typeId: "ao",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/5a81e44e494a47dea309713ba6821030~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://vt.tiktok.com/ZSYr48nYC/",
+  },
   {
     id: "quan1",
     name: "Quần dài ống rộng",
@@ -468,11 +476,11 @@ const productsDataFake: IProduct[] = [
   },
     {
     id: "makeup2",
-    name: "Kem má hồng",
+    name: "Kem má hồng - mua ở giỏ hàng tiktok của mình nha",
     typeId: "makeup",
     image:
       "https://down-vn.img.susercontent.com/file/vn-11134201-23020-jiw5iaxlcnnv90",
-    link: "https://s.shopee.vn/6KifygoHKK",
+    link: "https://vt.tiktok.com/ZSYrXTDkK/",
   },
    {
     id: "makeup3",
