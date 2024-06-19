@@ -267,6 +267,14 @@ const productsDataFake: IProduct[] = [
     link: "https://shope.ee/1AzRV11wNU",
   },
   {
+    id: "tui5",
+    name: "Túi xách size 25 siêu rộng",
+    typeId: "tui",
+    image:
+      "https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-lvic73x09q5t5b",
+    link: "https://s.shopee.vn/5fTfxPIaKu",
+  },
+  {
     id: "phukien6",
     name: "Mắt kính gọng kim loại - mua ở giỏ hàng tiktok mình nha",
     typeId: "phukien",
