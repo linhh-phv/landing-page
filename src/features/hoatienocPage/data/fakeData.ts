@@ -347,7 +347,7 @@ const productsDataFake: IProduct[] = [
     link: "https://shope.ee/3AkNBiGhiE",
   },
     {
-    id: "phukien15",
+    id: "phukien27",
     name: "Phụ kiện bọc củ sạc và dây sạc",
     typeId: "phukien",
     image:
