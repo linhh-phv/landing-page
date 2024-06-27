@@ -221,7 +221,7 @@ const productsDataFake: IProduct[] = [
   {
     id: "phukien1",
     name: "Keo nước dán móng",
-    typeId: "phukien",
+    typeId: "nail,",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/ccb05dded96f416081b39f0c2b403ed5~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/50BxYqZ7a8",
@@ -229,7 +229,7 @@ const productsDataFake: IProduct[] = [
   {
     id: "phukien2",
     name: "Keo chuyên dụng dán móng",
-    typeId: "phukien",
+    typeId: "nail",
     image:
       "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/7c2e3ec61f534eb5a861d8f653d532a9~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
     link: "https://shope.ee/AKDTvgbdYO",
@@ -345,6 +345,14 @@ const productsDataFake: IProduct[] = [
     image:
       "https://i.imgur.com/fIypvqz.png",
     link: "https://shope.ee/3AkNBiGhiE",
+  },
+    {
+    id: "phukien15",
+    name: "Phụ kiện bọc củ sạc và dây sạc",
+    typeId: "phukien",
+    image:
+      "https://p16-oec-va.ibyteimg.com/tos-maliva-i-o3syd03w52-us/218c5306a50f4e6fa9154a736de3cf4a~tplv-o3syd03w52-resize-jpeg:800:800.jpeg?from=1826719393",
+    link: "https://vt.tiktok.com/ZSYufgC3M/",
   },
    {
     id: "phukien15",
