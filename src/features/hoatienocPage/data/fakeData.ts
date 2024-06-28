@@ -274,6 +274,14 @@ const productsDataFake: IProduct[] = [
       "https://down-vn.img.susercontent.com/file/cn-11134207-7r98o-lvic73x09q5t5b",
     link: "https://s.shopee.vn/5fTfxPIaKu",
   },
+   {
+    id: "tui6",
+    name: "Túi đeo vai da PU sần",
+    typeId: "tui",
+    image:
+      "https://down-vn.img.susercontent.com/file/7f3a027a8a2511780a1152c180a85785",
+    link: "https://s.shopee.vn/2fqLJw6rK6",
+  },
   {
     id: "phukien6",
     name: "Mắt kính gọng kim loại - mua ở giỏ hàng tiktok mình nha",
